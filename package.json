@@ -1,0 +1,28 @@
+{
+  "name": "node-developer-exercise",
+  "version": "1.0.0",
+  "description": "Node Developer Exercise",
+  "main": "server.bundle.js",
+  "scripts": {
+    "start": "node server.bundle.js",
+    "build": "node node_modules/webpack/bin/webpack"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "hmm",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "request": "^2.81.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.23.0",
+    "babel-loader": "^6.4.1",
+    "babel-preset-es2015": "^6.24.0",
+    "webpack": "^2.2.1",
+    "webpack-dev-server": "^2.4.2",
+    "webpack-node-externals": "^1.5.4"
+  }
+}
