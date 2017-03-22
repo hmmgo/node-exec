@@ -11,7 +11,7 @@ This is task used following tecnlogy.
 
 # Installation
 
-- It is required the system has node installed. Install instruction avalable here [Node]: <https://nodejs.org/en/>. This task used following node and npm version:
+- It is required the system has node installed. Install instruction avalable here [Node](https://nodejs.org/en/). This task used following node and npm version:
 - Node Version: v7.4.0
 - npm Version: v4.0.5
 - Just need to clone this repo or download the zip file. cd into the directory and then to run `npm install`
